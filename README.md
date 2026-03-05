@@ -447,7 +447,7 @@ pip install gymnasium numpy
 ```
 
 ### Option 1: Google Colab (Recommended)
-1. Upload `RL_2A.ipynb` to [Google Colab](https://colab.research.google.com/)
+1. Upload `Q_Learning_FrozenLake.ipynb` to [Google Colab](https://colab.research.google.com/)
 2. Run all cells (`Runtime → Run All`)
 3. Watch the agent train live in the output cell!
 
@@ -455,11 +455,11 @@ pip install gymnasium numpy
 
 ```bash
 pip install jupyter gymnasium numpy
-jupyter notebook RL_2A.ipynb
+jupyter notebook Q_Learning_FrozenLake.ipynb
 ```
 
 ### Option 3: VS Code
-1. Open `RL_2A.ipynb` in VS Code
+1. Open `Q_Learning_FrozenLake.ipynb` in VS Code
 2. Select Python kernel
 3. Run cells with `Shift + Enter`
 
