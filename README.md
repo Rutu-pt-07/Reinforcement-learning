@@ -1,6 +1,6 @@
 # 🧊 Q-Learning on FrozenLake-v1
 
-> **Experiment 2 — Implementation of Q-Learning:**  
+> **Understanding Q-Learning:**  
 > Solve the FrozenLake environment using Q-Learning, experimenting with different Learning Rates, Discount Factors, and Exploration Strategies using the **Epsilon-Greedy** method.
 
 ---
